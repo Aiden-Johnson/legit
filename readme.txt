@@ -5,3 +5,4 @@ Try restore
 +1
 Git tracks changes of files.
 new branch test
+test conflict
