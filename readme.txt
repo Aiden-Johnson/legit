@@ -6,5 +6,5 @@ Try restore
 Git tracks changes of files.
 new branch test
 testing conflict
-manage
 from linux
+another
